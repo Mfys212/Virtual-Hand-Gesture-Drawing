@@ -10,4 +10,4 @@ Run program
 python draw.py
 ~~~
 
-![Result](test.jpg)
+![Result](test.png)
