@@ -11,3 +11,5 @@ python draw.py
 ~~~
 
 ![Result](test.png)
+
+source: https://github.com/google/mediapipe/blob/master/docs/solutions/hands.md
